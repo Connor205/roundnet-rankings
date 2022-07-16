@@ -1,0 +1,25 @@
+{
+  "data": {
+    "organization": {
+      "id": "622944e6daa6791e659038c0",
+      "name": "California Roundnet",
+      "url": "caroundnet",
+      "profilePicture": [
+        {
+          "size": 720,
+          "url": "https://storage.googleapis.com/roundnet-4e9b0.appspot.com/organization/622944e6daa6791e659038c0/profile/5cug3_photo_720.jpeg"
+        },
+        {
+          "size": 450,
+          "url": "https://storage.googleapis.com/roundnet-4e9b0.appspot.com/organization/622944e6daa6791e659038c0/profile/mkrgf_photo_450.jpeg"
+        },
+        {
+          "size": 150,
+          "url": "https://storage.googleapis.com/roundnet-4e9b0.appspot.com/organization/622944e6daa6791e659038c0/profile/qvyiv_photo_150.jpeg"
+        }
+      ],
+      "bio": "The Official Organization for the Sport of Roundnet in California",
+      "roles": []
+    }
+  }
+}
